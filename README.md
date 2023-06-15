@@ -1,4 +1,4 @@
-A simple, easily scalable, bouncy loading animation.
+A simple, easily scalable, bouncy loading animation. 🧶
 
 (_**official loading animation of the crypto app!**_)
 
